@@ -24,7 +24,6 @@ public class PalindromeServiceTest {
                 {"q", true},
         };
     }
-    // напиши тест
     @Test
     public void shouldCheckPalindrome(){
         PalindromeService pal = new PalindromeService();
